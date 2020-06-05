@@ -4,7 +4,7 @@ You can find more info about this book at - [http://faculty.marshall.usc.edu/gar
 
 Edx Course - [https://www.edx.org/course/statistical-learning](https://www.edx.org/course/statistical-learning)
 
-* Chapter 1: Introduction ([slides], [playlist](https://www.youtube.com/playlist?list=PL5-da3qGB5ICcUhueCyu25slvsGp8IDTa))
+* Chapter 1: Introduction ([slides](slides/ch1-introduction-handout.pdf), [playlist](https://www.youtube.com/playlist?list=PL5-da3qGB5ICcUhueCyu25slvsGp8IDTa))
     * Opening Remarks and Examples (18:18)
     * Supervised and Unsupervised Learning (12:12)
 * Chapter 2: Statistical Learning ([slides], [playlist](https://www.youtube.com/playlist?list=PL5-da3qGB5IDvuFPNoSqheihPOQNJpzyy))
